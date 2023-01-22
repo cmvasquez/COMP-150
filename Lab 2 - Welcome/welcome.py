@@ -6,7 +6,7 @@
 
 firstName = input("Enter your first name: ")
 lastName = input("Enter your last name: ")
-greetingFoo = "Hello there"
-greetingBar = ", it is nice to meet you! I am simply a program, so by the time" \
+greetingOne = "Hello there "
+greetingTwo = ", it is nice to meet you! I am simply a program, so by the time" \
               " \nyou are reading this I will have ceased to exist."
-print(greetingFoo, firstName, lastName, greetingBar)
+print(greetingOne + firstName, lastName + greetingTwo)
