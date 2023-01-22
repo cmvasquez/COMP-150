@@ -5,8 +5,8 @@
     given their height and weight.
 '''
 
-name = "Christian"
-weight = 130
-height = 72
-bmi = weight / height**2 * 703
-print(name + "'s BMI is " + str(bmi))
+name = "Christian"                      # String variable
+weight = 130                            # Int variable (weight)
+height = 72                             # Int variable (height)
+bmi = weight / height**2 * 703          # Calculating the bmi
+print(name + "'s BMI is " + str(bmi))   # Print result
