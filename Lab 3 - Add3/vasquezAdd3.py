@@ -1,5 +1,5 @@
 ''' Christian Vasquez | 1/21/23 | COMP 150
-    Lab 3 - 1.10.3 add3.py (p 27 Dr Harrington)
+    Lab 3 - 1.10.3 vasquezAdd3.py (p 27 Dr Harrington)
 
     This program prompts the user for three
     integers, lists all three, then prints their sum.
