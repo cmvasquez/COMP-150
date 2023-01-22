@@ -1,7 +1,9 @@
-# Lab 1 - BMI
-# This program calculates the BMI of a person
-# given their height and weight.
-# Written by Christian Vasquez COMP 150 1/21/23
+''' Christian Vasquez | 1/21/23 | COMP 150
+    Lab 1 - BMI
+
+    This program calculates the BMI of a person
+    given their height and weight.
+'''
 
 name = "Christian"
 weight = 130
