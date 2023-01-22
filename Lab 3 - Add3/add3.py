@@ -6,6 +6,6 @@
 x = int((input("Enter an integer: ")))
 y = int((input("Enter a 2nd integer: ")))
 z = int((input("Enter a final integer: ")))
-sum = x+y+z
+sum = x + y + z
 print('The sum of ' + str(x) + ', ' + str(y) +
       ', and ' + str(z) + ' is ' + str(sum) + '.')
