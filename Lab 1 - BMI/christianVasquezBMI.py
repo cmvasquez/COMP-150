@@ -1,4 +1,4 @@
-# BMI
+# Lab 1 - BMI
 # This program calculates the BMI of a person
 # given their height and weight.
 # Written by Christian Vasquez COMP 150 1/21/23
