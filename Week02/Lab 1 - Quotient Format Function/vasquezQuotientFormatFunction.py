@@ -1,5 +1,5 @@
 ''' Christian Vasquez | 1/24/2023 | COMP 150
-    Lab 1 = vasquezQuotientFormatFunction.py
+    Lab 1 - vasquezQuotientFormatFunction.py
 
     This program prompts the user for two integers
     and prints the solution using a function
@@ -14,8 +14,12 @@ def quotientFormat():                                                         # 
     print('The quotient of {} and {} is {}, with a '                          # Print result
           'remainder of {}'.format(dividend, divisor, quotient, remainder))
 
-#Testing below
-quotientFormat()
-quotientFormat()
-quotientFormat()
-quotientFormat()
+def main():                                                                   # Main method for testing
+    quotientFormat()
+    quotientFormat()
+    quotientFormat()
+    quotientFormat()
+
+
+
+main()                                                                        # Run program

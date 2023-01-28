@@ -8,7 +8,7 @@
 '''
 
 
-def bmiCalculator(name, weight, height):
+def bmiCalculator(name, weight, height):                    # Function bmiCalculator
     bmi = weight / height**2 * 703                          # Calculates bmi
     print("{}'s BMI is {}".format(name, bmi))               # Print result
 
@@ -16,8 +16,7 @@ def main():
     name = input("Enter your name: ")                       # Prompts for name
     weight = int(input("Enter your weight (lbs): "))        # Prompts for weight (lbs)
     height = int(input("Enter your height (in): "))         # Prompts for height (in)
-    bmiCalculator(name, weight, height)                     # Test
+    bmiCalculator(name, weight, height)                     # Call function bmiCalculator
 
 
-# Calling the function to run program below
-main()
+main()                                                      # Run program
